@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\bin\Debug\Prueba2_13septiembre.exe.config
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\bin\Debug\Prueba2_13septiembre.exe
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\bin\Debug\Prueba2_13septiembre.pdb
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\bin\Debug\Prueba2_13septiembre.xml
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.Resources.resources
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.exe
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.xml
+C:\Users\Alumno\Desktop\Programación\Prueba2_13septiembre\obj\Debug\Prueba2_13septiembre.pdb

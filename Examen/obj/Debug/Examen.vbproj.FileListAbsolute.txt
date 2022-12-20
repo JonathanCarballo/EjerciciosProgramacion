@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\bin\Debug\Examen.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\bin\Debug\Examen.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\bin\Debug\Examen.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\bin\Debug\Examen.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Examen\obj\Debug\Examen.pdb

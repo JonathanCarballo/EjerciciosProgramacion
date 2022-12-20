@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\bin\Debug\Bait.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\bin\Debug\Bait.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\bin\Debug\Bait.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\bin\Debug\Bait.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Bait\obj\Debug\Bait.pdb

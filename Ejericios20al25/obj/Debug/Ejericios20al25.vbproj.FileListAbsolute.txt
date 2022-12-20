@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\bin\Debug\Ejericios20al25.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\bin\Debug\Ejericios20al25.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\bin\Debug\Ejericios20al25.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\bin\Debug\Ejericios20al25.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejericios20al25\obj\Debug\Ejericios20al25.pdb

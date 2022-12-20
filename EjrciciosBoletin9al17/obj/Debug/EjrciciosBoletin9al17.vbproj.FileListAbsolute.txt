@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjrciciosBoletin9al17.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjrciciosBoletin9al17.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjrciciosBoletin9al17.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjrciciosBoletin9al17.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\bin\Debug\EjerciciosBoletin9al17.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\bin\Debug\EjerciciosBoletin9al17.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\bin\Debug\EjerciciosBoletin9al17.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\bin\Debug\EjerciciosBoletin9al17.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjerciciosBoletin9al17.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjerciciosBoletin9al17.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjrciciosBoletin9al17\obj\Debug\EjerciciosBoletin9al17.pdb

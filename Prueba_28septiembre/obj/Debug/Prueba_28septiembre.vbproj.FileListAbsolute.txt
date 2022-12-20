@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\bin\Debug\Prueba_28septiembre.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\bin\Debug\Prueba_28septiembre.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\bin\Debug\Prueba_28septiembre.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\bin\Debug\Prueba_28septiembre.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Prueba_28septiembre\obj\Debug\Prueba_28septiembre.pdb

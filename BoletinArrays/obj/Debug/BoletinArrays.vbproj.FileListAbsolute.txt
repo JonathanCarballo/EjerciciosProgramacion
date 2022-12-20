@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\bin\Debug\BoletinArrays.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\bin\Debug\BoletinArrays.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\bin\Debug\BoletinArrays.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\bin\Debug\BoletinArrays.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\BoletinArrays\obj\Debug\BoletinArrays.pdb

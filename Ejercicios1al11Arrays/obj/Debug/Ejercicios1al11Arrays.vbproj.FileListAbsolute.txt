@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\bin\Debug\Ejercicios1al11Arrays.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\bin\Debug\Ejercicios1al11Arrays.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\bin\Debug\Ejercicios1al11Arrays.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\bin\Debug\Ejercicios1al11Arrays.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios1al11Arrays\obj\Debug\Ejercicios1al11Arrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\bin\Debug\Ejercicios7_8_9_10_11_12.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\bin\Debug\Ejercicios7_8_9_10_11_12.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\bin\Debug\Ejercicios7_8_9_10_11_12.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\bin\Debug\Ejercicios7_8_9_10_11_12.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios7_8_9_10_11_12\obj\Debug\Ejercicios7_8_9_10_11_12.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\bin\Debug\Ejercicios2Noviembre.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\bin\Debug\Ejercicios2Noviembre.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\bin\Debug\Ejercicios2Noviembre.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\bin\Debug\Ejercicios2Noviembre.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Ejercicios2Noviembre\obj\Debug\Ejercicios2Noviembre.pdb

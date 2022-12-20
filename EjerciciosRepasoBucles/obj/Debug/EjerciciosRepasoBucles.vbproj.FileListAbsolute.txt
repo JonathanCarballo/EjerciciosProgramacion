@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\bin\Debug\EjerciciosRepasoBucles.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\bin\Debug\EjerciciosRepasoBucles.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\bin\Debug\EjerciciosRepasoBucles.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\bin\Debug\EjerciciosRepasoBucles.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosRepasoBucles\obj\Debug\EjerciciosRepasoBucles.pdb

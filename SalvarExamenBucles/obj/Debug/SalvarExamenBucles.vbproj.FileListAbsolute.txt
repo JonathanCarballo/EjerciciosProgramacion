@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\bin\Debug\SalvarExamenBucles.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\bin\Debug\SalvarExamenBucles.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\bin\Debug\SalvarExamenBucles.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\bin\Debug\SalvarExamenBucles.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\SalvarExamenBucles\obj\Debug\SalvarExamenBucles.pdb

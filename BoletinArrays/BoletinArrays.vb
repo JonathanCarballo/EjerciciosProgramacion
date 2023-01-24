@@ -294,7 +294,7 @@ Module BoletinArrays
                     Console.WriteLine("El valor más alto de la matriz es " & valorMasAlto)
                     Console.ReadLine()
 
-                Case 10 'Jonathn Carballo Menezes Ejercicio 10
+                Case 10 'Jonathan Carballo Menezes Ejercicio 10
                     'Utiliza la librería Array
 
                 Case 11

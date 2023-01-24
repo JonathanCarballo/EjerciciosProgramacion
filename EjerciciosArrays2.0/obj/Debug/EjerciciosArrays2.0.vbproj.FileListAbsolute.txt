@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\bin\Debug\EjerciciosArrays2.0.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\bin\Debug\EjerciciosArrays2.0.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\bin\Debug\EjerciciosArrays2.0.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\bin\Debug\EjerciciosArrays2.0.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2._0.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\EjerciciosArrays2.0\obj\Debug\EjerciciosArrays2.0.pdb

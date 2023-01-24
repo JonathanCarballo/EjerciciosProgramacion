@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\bin\Debug\Boletin_Cadenas.exe.config
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\bin\Debug\Boletin_Cadenas.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\bin\Debug\Boletin_Cadenas.pdb
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\bin\Debug\Boletin_Cadenas.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.Resources.resources
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.exe
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.xml
+C:\Users\Alumno\Desktop\Programación\CosasDelGitHub\GitHub\Boletin_Cadenas\obj\Debug\Boletin_Cadenas.pdb
